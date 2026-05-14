@@ -53,7 +53,7 @@ This repository contains a curated collection of data preprocessing assignments 
 
 **Certifications**
 
-![Infosys Certificate](Certificates/infosys_certificate.png)
+
 
 **Introduction to Data Preprocessing** — Infosys Springboard
 

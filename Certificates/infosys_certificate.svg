@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520">
+  <rect width="100%" height="100%" fill="#ffffff" stroke="#2b6cb0" stroke-width="6" rx="12"/>
+  <text x="50%" y="18%" text-anchor="middle" font-size="26" font-family="Arial" fill="#2b6cb0">Infosys Springboard</text>
+  <text x="50%" y="30%" text-anchor="middle" font-size="20" font-family="Arial" fill="#111">Certificate of Completion</text>
+  <text x="50%" y="44%" text-anchor="middle" font-size="18" font-family="Arial" fill="#000">"Introduction to Data Preprocessing"</text>
+  <text x="50%" y="58%" text-anchor="middle" font-size="14" font-family="Arial" fill="#333">Awarded to</text>
+  <text x="50%" y="66%" text-anchor="middle" font-size="20" font-family="Arial" fill="#000">Sakher Shabil</text>
+  <text x="50%" y="74%" text-anchor="middle" font-size="12" font-family="Arial" fill="#666">Key skills: Data Cleaning · Missing Value Handling · Encoding · Scaling · EDA</text>
+  <rect x="60%" y="80%" width="180" height="30" fill="#2b6cb0" rx="6"/>
+  <text x="69%" y="99%" text-anchor="middle" font-size="12" font-family="Arial" fill="#fff">Infosys Springboard</text>
+</svg>

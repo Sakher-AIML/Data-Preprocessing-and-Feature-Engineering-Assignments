@@ -1,74 +1,98 @@
 <<<<<<< HEAD
-# Data-Preprocessing-and-Feature-Engineering-Assignments
-A professional collection of Data Preprocessing assignments covering data cleaning, transformation, feature engineering, visualization, normalization, encoding, and exploratory data analysis using Python and Machine Learning libraries.
-=======
-# Data Preprocessing and Feature Engineering Assignments
-
-**Repository overview:**
-
-This repository contains a curated collection of data preprocessing assignments and a course completion certificate. The materials demonstrate practical skills in data cleaning, missing value handling, feature engineering, encoding, scaling, outlier detection, exploratory data analysis and visualization using Python and standard data-science libraries.
-
-**Project objectives:**
-- Provide clean, well-documented notebooks that showcase data preprocessing workflows.
-- Make the repository recruiter-friendly and suitable for portfolio presentation.
-- Document learning outcomes, tools used, and suggested future improvements.
-
-**Learning outcomes:**
-- Practical data cleaning and transformation techniques
-- Handling missing values and duplicates
-- Feature engineering and encoding strategies
-- Scaling and normalization for model readiness
-- Exploratory analysis and visualization best practices
 
 # Data Preprocessing and Feature Engineering Assignments
 
-**Repository overview:**
+This repository contains a complete collection of Data Preprocessing and Feature Engineering assignments completed during my AIML coursework. The assignments follow a typical machine learning data preparation pipeline, starting from importing libraries and loading datasets to data cleaning, exploratory data analysis, feature engineering, and final project reporting.
 
-This repository contains a curated collection of data preprocessing assignments and a course completion certificate. The materials demonstrate practical skills in data cleaning, missing value handling, feature engineering, encoding, scaling, outlier detection, exploratory data analysis and visualization using Python and standard data-science libraries.
+## Workflow Covered
 
-**Project objectives:**
-- Provide clean, well-documented notebooks that showcase data preprocessing workflows.
-- Make the repository recruiter-friendly and suitable for portfolio presentation.
-- Document learning outcomes, tools used, and suggested future improvements.
+### Assignment 01 – Library Import and Dataset Loading
 
-**Learning outcomes:**
-- Practical data cleaning and transformation techniques
-- Handling missing values and duplicates
-- Feature engineering and encoding strategies
-- Scaling and normalization for model readiness
-- Exploratory analysis and visualization best practices
+* Importing Python libraries
+* Loading datasets using Pandas
+* Understanding dataset structure
+* Initial data inspection
 
-**Tools & technologies:**
-- Python, Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
-- Google Colab (notebooks prepared for Colab paths)
+### Assignment 02 – Data Cleaning
 
-**Repository structure:**
-- Assignment-01_Data_Cleaning_Customer/ — Customer dataset preprocessing notebook
-- Assignment-02_Exploratory_Data_Analysis_Penguin/ — Penguins EDA and imputation
-- Assignment-08_Tips_and_Tricks/ — Practical preprocessing tips and examples
-- Assignment-10_Project_Report/ — Project-style preprocessing report
-- Certificates/ — Certifications and images
+* Handling missing values
+* Removing duplicate records
+* Correcting inconsistent data
+* Data quality checks
 
-**Certifications**
+### Assignment 03 – Exploratory Data Analysis (EDA)
 
+* Statistical summaries
+* Data visualization
+* Distribution analysis
+* Feature relationship analysis
 
+### Assignment 04 – Data Transformation
 
-**Introduction to Data Preprocessing** — Infosys Springboard
+* Data type conversion
+* Feature formatting
+* Data standardization
 
-Short description: Completed the "Introduction to Data Preprocessing" course on Infosys Springboard covering data cleaning, missing value strategies, encoding, scaling, and EDA. The course emphasizes practical, hands-on preprocessing techniques for preparing datasets for machine learning.
+### Assignment 05 – Encoding Techniques
 
-Key skills learned:
-- Data cleaning and duplicate handling
-- Missing value imputation strategies
-- Feature encoding and scaling
-- Exploratory data analysis and visualization
+* Label Encoding
+* One-Hot Encoding
+* Categorical feature processing
 
-**Future improvements:**
-- Add unit tests and lightweight data-validation scripts
-- Add more polished final reports and slides for each assignment
-- Add small modeling notebooks to show before/after preprocessing effects
-- Include links to live Colab copies for easier reviewer execution
+### Assignment 06 – Feature Scaling
 
-**GitHub topics:** Data-Preprocessing, Data-Cleaning, Feature-Engineering, EDA, Python, Machine-Learning, Data-Visualization
+* Normalization
+* Standardization
+* Min-Max Scaling
+
+### Assignment 07 – Feature Engineering
+
+* Creating new features
+* Feature extraction
+* Feature selection techniques
+
+### Assignment 08 – Data Preprocessing Tips and Tricks
+
+* Practical preprocessing methods
+* Optimization techniques
+* Best practices
+
+### Assignment 09 – Integrated Preprocessing Workflow
+
+* Combining preprocessing steps
+* Preparing datasets for machine learning
+
+### Assignment 10 – Project Report
+
+* Complete preprocessing project
+* Documentation and analysis
+* Results and conclusions
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+* Jupyter Notebook
+* Google Colab
+
+## Learning Outcomes
+
+Through these assignments, I gained practical experience in:
+
+* Data Cleaning
+* Data Transformation
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Data Visualization
+* Data Preparation for Machine Learning
+* Building End-to-End Preprocessing Pipelines
+
+## Author
+
+Sakher Shabil
+Artificial Intelligence and Machine Learning (AIML) Student
+

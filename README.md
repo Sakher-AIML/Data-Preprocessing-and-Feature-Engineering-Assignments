@@ -115,6 +115,8 @@ Skills covered:
 
 This certification strengthened my understanding of practical data preprocessing techniques and industry-standard workflows used in data science and machine learning projects.
 
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/23d78437-1e6a-40d3-a02e-cd5b40aafd07" />
+
 ## Author
 
 **Sakher Shabil**

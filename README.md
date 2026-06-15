@@ -2,9 +2,13 @@
 
 # Data Preprocessing and Feature Engineering Assignments
 
-This repository contains a complete collection of Data Preprocessing and Feature Engineering assignments completed during my AIML coursework. The assignments follow a typical machine learning data preparation pipeline, starting from importing libraries and loading datasets to data cleaning, exploratory data analysis, feature engineering, and final project reporting.
+A comprehensive collection of Data Preprocessing and Feature Engineering assignments completed as part of my Artificial Intelligence and Machine Learning (AIML) studies. This repository demonstrates the essential steps required to prepare real-world datasets for machine learning applications, from importing libraries and loading data to cleaning, transforming, analyzing, and engineering features.
 
-## Workflow Covered
+## Repository Overview
+
+Data preprocessing is a critical stage in every machine learning project. The assignments in this repository follow a structured workflow that covers the complete data preparation pipeline used by data scientists and machine learning engineers.
+
+## Assignment Workflow
 
 ### Assignment 01 – Library Import and Dataset Loading
 
@@ -13,62 +17,62 @@ This repository contains a complete collection of Data Preprocessing and Feature
 * Understanding dataset structure
 * Initial data inspection
 
-### Assignment 02 – Data Cleaning
-
-* Handling missing values
-* Removing duplicate records
-* Correcting inconsistent data
-* Data quality checks
-
-### Assignment 03 – Exploratory Data Analysis (EDA)
+### Assignment 02 – Exploratory Data Analysis (EDA)
 
 * Statistical summaries
 * Data visualization
-* Distribution analysis
-* Feature relationship analysis
+* Understanding feature distributions
+* Identifying patterns and trends
 
-### Assignment 04 – Data Transformation
+### Assignment 03 – Missing Value Handling
+
+* Detecting missing values
+* Handling null entries
+* Data quality improvement
+
+### Assignment 04 – Duplicate Data Processing
+
+* Identifying duplicate records
+* Removing redundant data
+* Ensuring data consistency
+
+### Assignment 05 – Data Transformation
 
 * Data type conversion
-* Feature formatting
-* Data standardization
+* Feature transformation
+* Data formatting techniques
 
-### Assignment 05 – Encoding Techniques
+### Assignment 06 – Encoding Techniques
 
 * Label Encoding
 * One-Hot Encoding
-* Categorical feature processing
+* Processing categorical features
 
-### Assignment 06 – Feature Scaling
+### Assignment 07 – Feature Scaling
 
 * Normalization
 * Standardization
-* Min-Max Scaling
-
-### Assignment 07 – Feature Engineering
-
-* Creating new features
-* Feature extraction
-* Feature selection techniques
+* Preparing data for machine learning algorithms
 
 ### Assignment 08 – Data Preprocessing Tips and Tricks
 
-* Practical preprocessing methods
-* Optimization techniques
-* Best practices
+* Practical preprocessing techniques
+* Workflow optimization
+* Best practices for machine learning datasets
 
-### Assignment 09 – Integrated Preprocessing Workflow
+### Assignment 09 – Feature Engineering
 
-* Combining preprocessing steps
-* Preparing datasets for machine learning
+* Feature creation
+* Feature extraction
+* Feature selection techniques
 
 ### Assignment 10 – Project Report
 
-* Complete preprocessing project
+* Complete preprocessing workflow
 * Documentation and analysis
 * Results and conclusions
 
-## Technologies Used
+## Technologies and Libraries Used
 
 * Python
 * Pandas
@@ -85,14 +89,35 @@ Through these assignments, I gained practical experience in:
 
 * Data Cleaning
 * Data Transformation
+* Missing Value Handling
+* Duplicate Data Processing
 * Exploratory Data Analysis (EDA)
-* Feature Engineering
 * Data Visualization
-* Data Preparation for Machine Learning
-* Building End-to-End Preprocessing Pipelines
+* Feature Engineering
+* Feature Scaling
+* Machine Learning Data Preparation
+
+## Certifications
+
+### Introduction to Data Preprocessing
+
+**Issued By:** Infosys Springboard
+**Completion Date:** March 27, 2026
+
+Skills covered:
+
+* Data Cleaning
+* Missing Value Handling
+* Data Transformation
+* Data Scaling
+* Exploratory Data Analysis (EDA)
+* Machine Learning Data Preparation
+
+This certification strengthened my understanding of practical data preprocessing techniques and industry-standard workflows used in data science and machine learning projects.
 
 ## Author
 
-Sakher Shabil
+**Sakher Shabil**
 Artificial Intelligence and Machine Learning (AIML) Student
+
 

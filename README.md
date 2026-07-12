@@ -135,9 +135,7 @@ The repository contains the certificate earned for completing the course/laborat
 
 
 ```
-<img width="1118" height="792" alt="Screenshot 2026-07-12 234614" src="https://github.com/user-attachments/assets/f57fc07c-d216-4b50-878d-0d531d5c10ee" />
 
----
 
 # 💻 Software Used
 

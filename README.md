@@ -1,13 +1,26 @@
-# 🚀 Data Preprocessing and Feature Engineering Assignments
-
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
+# 🚀 Data Preprocessing & Feature Engineering Assignments
+
+### Artificial Intelligence & Machine Learning (AIML)
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Welcome+to+my+Data+Preprocessing+Repository;Python+%7C+Pandas+%7C+NumPy+%7C+EDA;Feature+Engineering+%7C+Machine+Learning;Built+with+❤️+using+Python+and+Jupyter"/>
+
+---
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
-![Pandas](https://img.shields.io/badge/Pandas-2.x-purple?style=for-the-badge&logo=pandas)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?style=for-the-badge&logo=numpy)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-success?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn)
+![Git](https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)
+
+![Repo Size](https://img.shields.io/github/repo-size/Sakher-AIML/Data-Preprocessing-and-Feature-Engineering-Assignments?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Sakher-AIML/Data-Preprocessing-and-Feature-Engineering-Assignments?style=flat-square)
+![Forks](https://img.shields.io/github/forks/Sakher-AIML/Data-Preprocessing-and-Feature-Engineering-Assignments?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Sakher-AIML/Data-Preprocessing-and-Feature-Engineering-Assignments?style=flat-square)
 
 </div>
 
@@ -15,177 +28,147 @@
 
 # 📖 Repository Overview
 
-This repository contains my complete **Data Preprocessing and Feature Engineering** laboratory assignments completed as part of my **Bachelor of Technology in Artificial Intelligence and Machine Learning (AIML)**.
+Welcome!
 
-The repository demonstrates practical implementation of data preprocessing techniques using **Python**, **Pandas**, **NumPy**, and **Jupyter Notebook**.
+This repository contains my complete **Data Preprocessing and Feature Engineering** laboratory assignments completed as part of my **Bachelor of Technology (B.Tech) in Artificial Intelligence and Machine Learning (AIML).**
 
-The experiments cover the complete data preparation pipeline required before building Machine Learning models.
+The repository demonstrates the practical implementation of modern data preprocessing techniques used in real-world Machine Learning workflows.
+
+Every notebook has been developed using **Python**, **Jupyter Notebook**, **Pandas**, and **NumPy**, following a structured approach to preparing raw data before training Machine Learning models.
 
 ---
 
-# 🎯 Learning Objectives
+# 🎯 Repository Objectives
 
-Throughout these assignments I learned how to:
+The primary objectives of this repository are:
 
-- Collect real-world datasets
-- Handle missing values
-- Clean noisy datasets
+- Build a strong foundation in Data Preprocessing
+- Learn professional data cleaning techniques
+- Handle missing and inconsistent data
 - Detect and remove outliers
-- Perform data wrangling
-- Encode categorical variables
-- Perform Exploratory Data Analysis (EDA)
-- Build complete preprocessing pipelines
+- Perform Feature Engineering
 - Prepare datasets for Machine Learning
+- Conduct Exploratory Data Analysis (EDA)
+- Improve data quality before model training
+- Develop practical experience using Python
 
 ---
 
-# 📚 Experiments
-
-| No. | Experiment | Status |
-|-----|------------|:------:|
-| 01 | Data Acquisition from Real-World Sources | ✅ |
-| 02 | Handling Missing Data in Healthcare Records | ✅ |
-| 03 | Data Cleaning for E-Commerce Transactions | ✅ |
-| 04 | Outlier Detection in Banking & Finance Data | ✅ |
-| 05 | Data Wrangling on Student Performance Dataset | ✅ |
-| 06 | Encoding Categorical Data for ML Readiness | ✅ |
-| 07 | Univariate Analysis of Environmental Sensor Data | ✅ |
-| 08 | Bivariate Analysis for Sales Forecasting | ✅ |
-| 09 | Multivariate Exploratory Data Analysis | ✅ |
-| 10 | Complete EDA Pipeline on Real Dataset | ✅ |
-
----
-
-# 🚀 Mini Project
-
-This repository also includes a complete mini project.
-
-## Project Title
-
-**Predictive Modeling and Statistical Decomposition of Urban Traffic Collision Severity Using Multi-Source Temporal Crash Data**
-
-### Project Includes
-
-- ✅ Jupyter Notebook
-- ✅ Project Report
-- ✅ Dataset
-- ✅ Documentation
-
----
-
-# 📂 Repository Structure
+# 🧠 Data Science Pipeline
 
 ```text
-Data-Preprocessing-and-Feature-Engineering-Assignments
-│
-├── Experiment-01
-├── Experiment-02
-├── Experiment-03
-├── Experiment-04
-├── Experiment-05
-├── Experiment-06
-├── Experiment-07
-├── Experiment-08
-├── Experiment-09
-├── Experiment-10
-│
-├── Mini Project
-│   ├── Notebook
-│   ├── Report
-│   └── Dataset
-│
-├── Certificates
-│
-└── README.md
+                    REAL WORLD DATA
+                           │
+                           ▼
+                 Data Acquisition
+                           │
+                           ▼
+               Data Cleaning & Filtering
+                           │
+                           ▼
+               Missing Value Handling
+                           │
+                           ▼
+                Outlier Detection
+                           │
+                           ▼
+             Feature Engineering
+                           │
+                           ▼
+          Exploratory Data Analysis
+                           │
+                           ▼
+          Machine Learning Ready Data
 ```
 
 ---
 
-# 🛠 Technologies Used
+# 📊 Complete Data Preprocessing Workflow
 
-- Python
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Git
-- GitHub
-
----
-
-# 📊 Skills Demonstrated
-
-- Data Collection
-- Data Cleaning
-- Missing Value Handling
-- Outlier Detection
-- Feature Engineering
-- Data Wrangling
-- Exploratory Data Analysis
-- Data Visualization
-- Machine Learning Data Preparation
-
----
-
-# 📜 Certificate
-
-The repository contains the certificate earned for completing the course/laboratory work.
-
-
-
+```text
+Collect Data
+      │
+      ▼
+Import Dataset
+      │
+      ▼
+Understand Dataset
+      │
+      ▼
+Clean Dataset
+      │
+      ▼
+Handle Missing Values
+      │
+      ▼
+Detect Outliers
+      │
+      ▼
+Encode Categories
+      │
+      ▼
+Feature Engineering
+      │
+      ▼
+Data Visualization
+      │
+      ▼
+Exploratory Data Analysis
+      │
+      ▼
+Prepared Dataset
+      │
+      ▼
+Machine Learning
 ```
 
+---
 
-# 💻 Software Used
+# ✨ Repository Highlights
 
-- Visual Studio Code
-- Jupyter Notebook
-- Git
-- GitHub
-- Python 3.x
+✅ 10 Laboratory Experiments
+
+✅ Complete Mini Project
+
+✅ Project Report
+
+✅ Course Certificate
+
+✅ Python Implementation
+
+✅ Jupyter Notebooks
+
+✅ Real-world Datasets
+
+✅ Machine Learning Data Preparation
 
 ---
 
-# 🌟 Future Improvements
+# 📑 Table of Contents
 
-- Advanced Feature Engineering
-- Feature Selection Techniques
-- Data Pipelines using Scikit-Learn
-- Automated Data Validation
-- Interactive Dashboards
-
----
-
-# 👨‍💻 Author
-
-## Sakher Shabil
-
-**Bachelor of Technology (B.Tech)**
-
-Artificial Intelligence and Machine Learning
+- 📖 Repository Overview
+- 🎯 Objectives
+- 📚 Laboratory Assignments
+- 🚀 Mini Project
+- 📂 Repository Structure
+- 📜 Course Certificate
+- 🛠 Technologies Used
+- 📈 Skills Developed
+- 💻 Software Used
+- 🌟 Future Improvements
+- 👨‍💻 Author
 
 ---
 
-### Connect with me
+# 📚 Laboratory Assignments
 
-GitHub:
+The laboratory consists of ten practical experiments covering the complete Data Preprocessing pipeline.
 
-https://github.com/Sakher-AIML
+Each notebook focuses on a specific preprocessing technique that is commonly used in Data Science and Machine Learning.
 
----
-
-# ⭐ If you found this repository useful
-
-Please consider giving it a ⭐ on GitHub.
-
-It motivates me to continue building high-quality AI and Machine Learning projects.
+The experiments gradually build from basic preprocessing concepts to complete Exploratory Data Analysis (EDA).
 
 ---
-
-<div align="center">
-
-## Thank You for Visiting
 
 **Happy Learning! 🚀**
 

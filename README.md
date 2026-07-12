@@ -132,12 +132,10 @@ Data-Preprocessing-and-Feature-Engineering-Assignments
 
 The repository contains the certificate earned for completing the course/laboratory work.
 
-📂 Location:
+
 
 ```
-<img width="1118" height="792" alt="image" src="https://github.com/user-attachments/assets/4d414970-89e5-485d-9505-baf1e79cf0f0" />
-
-```
+<img width="1118" height="792" alt="Screenshot 2026-07-12 234614" src="https://github.com/user-attachments/assets/f57fc07c-d216-4b50-878d-0d531d5c10ee" />
 
 ---
 
